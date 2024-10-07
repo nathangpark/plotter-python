@@ -3,7 +3,7 @@
 **Team**
 Made by team of UGA engineering students
 - Nathan Park: *Software*
-- Daneil Poorak: *Hardware*
+- Daniel Poorak: *Hardware*
 - Umair Irshad: *Software*
 - Tae Lee: *Hardware*
 - Neel Desai: *Hardware*

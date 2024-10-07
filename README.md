@@ -1,6 +1,7 @@
 # 2D Plotter
 
 **Team**
+
 Made by team of UGA engineering students
 - Nathan Park: *Software*
 - Daniel Poorak: *Hardware*

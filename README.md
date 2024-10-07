@@ -13,5 +13,10 @@ Made by team of UGA engineering students
 **Description**
 The Precision Plotter is a versatile and user-friendly device designed to cater to a variety of plotting needs. Equipped with three distinct operating modes—Etch-A-Sketch, Math Mode, and G-Code Mode—this plotter offers flexibility for users ranging from hobbyists to professionals. Whether you are looking to engage in freehand drawing, plot complex mathematical functions, or import and execute G-Code files, the Precision Plotter is engineered to handle these tasks with ease.
 
+**Components**
+- Raspberry Pi 4 (RP4)
+- Stepper Motors
+- Rotary Encoders
+
 
 For a full description of the project in its entirety, including an exhaustive explanation of all hardware and software, see the [Technical Specification and Description Report](docs/tech-doc.pdf)

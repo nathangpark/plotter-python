@@ -22,3 +22,5 @@ The Precision Plotter is a versatile and user-friendly device designed to cater 
 
 
 For a full description of the project in its entirety, including an exhaustive explanation of all hardware and software, see the [Technical Specification and Description Report](docs/tech-doc.pdf)
+
+For demonstration videos, see [HERE](https://www.youtube.com/watch?v=Q5JhgT3V5Lg&list=PL-ZNuBf7N98oXJAFyI3xNzuR_te0wGc8-&index=5)
